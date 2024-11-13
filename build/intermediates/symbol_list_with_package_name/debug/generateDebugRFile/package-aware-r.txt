@@ -1,0 +1,7 @@
+com.example.mylibrary
+id main
+id message
+id webView
+layout activity_main
+layout fragment_h_t_m_l_time
+string hello_blank_fragment
